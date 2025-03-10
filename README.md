@@ -39,3 +39,8 @@ Before running the code, make sure you have Python and the necessary libraries i
 
    ```bash
    pip install numpy pandas seaborn matplotlib
+3. **Install Data File**: Ensure that the dataset file Data_File.csv is placed in the correct directory. Update the file path in the code accordingly:
+python
+Copy
+Edit
+data_temp = pd.read_csv(r"C:\path\to\your\data\Data_File.csv")
