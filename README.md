@@ -43,3 +43,7 @@ Before running the code, make sure you have Python and the necessary libraries i
 python
    ```bash
    data_temp = pd.read_csv(r"C:\path\to\your\data\Data_File.csv")
+4. **Editing**: I recommned jupyter notebook to acess and edit the contents. You can download jupyter notebook:
+   ```bash
+   pip install jupyterlab
+   jupyter lab
