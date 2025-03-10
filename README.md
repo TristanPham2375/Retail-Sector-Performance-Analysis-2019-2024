@@ -7,6 +7,9 @@ This project analyzes various retail sectors' performance, focusing on the impac
 ### Data Sources:
 - The data is sourced from historical retail sales data, specifically for sectors like **automobile dealers** and **fashion retailers**.
 - The dataset covers the period from **2019 to 2024**, which includes pre- and post-COVID periods.
+- Source: Retrieved from: Statistic Canada. (Feb 24, 2025). Monthly retail trade sales by industry (x 1,000). Statistic Canada. [Statistics Canada](https://www.statcan.gc.ca)
+
+![image](https://github.com/user-attachments/assets/46ed95a5-5eac-4868-a69a-ff3d9b19d718)
 
 ### Analysis Focus:
 - **Automobile Retail (Car Sales)**: Identifying the best months to sell a car based on demand trends.
